@@ -1,0 +1,131 @@
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1820px) {
+    .container {
+      
+        padding-left: 30px;
+	    padding-right: 30px;
+    }
+
+    .billboard-slider-item {
+        padding-left: 30px;
+    }
+
+    .manual {
+        padding-bottom: 30px;
+	    margin-top: -40px;
+
+    }
+
+    .main-form {
+        margin-bottom: 20px;
+    }
+    
+
+.consultation {
+	background: url(../img/form_bgc.png) no-repeat   ;
+	
+	padding-bottom: 50px;
+	
+}
+}
+@media only screen and (max-width : 1400px) {
+	
+}
+@media only screen and (max-width : 1300px) {
+
+}
+@media only screen and (max-width : 1250px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+@media only screen and (max-width : 576px) {
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+    .container {
+        max-width: 1476px;
+       
+    }
+
+   
+
+  
+
+}
+@media (min-width: 1600px) {
+    .main-form {
+        margin-top: 50px;
+        margin-left: 25px;
+        width: 449px;
+
+}
+
+.catalog-main__form {
+    margin-top: 0px;
+    
+}
+
+.catalog-form {
+	padding: 0;
+	max-height: 510px;
+	padding: 35px 66px 35px 66px;
+	margin: 0;
+}
+
+
+    
+    
+   
+   
+    
+}
+
+
+@media only screen and (min-width : 1920px) {
+.container {
+    max-width: 1476px;
+    
+   
+    
+}
+
+}
